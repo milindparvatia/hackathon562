@@ -228,6 +228,7 @@
                     document.getElementById("Email_Id").style.borderColor="red";
                     document.getElementById("Email_Id").placeholder="\t\t\t Please enter a valid Email ID";
                     } 
+                    //
         }
     
         function percentage_validate()
